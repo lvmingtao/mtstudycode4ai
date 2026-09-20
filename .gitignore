@@ -10,6 +10,11 @@ wheels/
 
 # Virtual environments
 mcp/cline-mcp/weather/.venv
+mcp/cline-llm/.venv
 
-# MCP 交互日志（由 mcp_proxy.py 生成）
+# MCP 交互日志（由 mcp_traffic_log.py 生成）
 weather_mcp.log
+
+# LLM 交互日志（由 llm_logger.py 生成）
+llm.log
+cline_llm.log
