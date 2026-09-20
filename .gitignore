@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+.idea
+
+# Virtual environments
+mcp/cline-mcp/weather/.venv
+
+# MCP 交互日志（由 mcp_proxy.py 生成）
+weather_mcp.log
